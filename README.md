@@ -10,7 +10,7 @@ Multi-floor positioning is implemented on the local branch `feat/multifloor-posi
 
 ## Run locally
 
-Tested on Windows with Python **3.13.13** and Node **24.14.0**. Use Python 3.13 and Node 22.12+ (or 24). Run commands from this directory.
+Tested on Windows with Python **3.13.13** and Node **24.14.0**. Use Python 3.13 and Node 22.12+ (or 24). Run commands from this directory...
 
 First-time setup, PowerShell:
 
